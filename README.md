@@ -35,7 +35,7 @@ Trickbot	141	69
 Total Number	3604	1365
 The PNG files are of type 3D, therefore, it was saved as a NumPy .npy (RGB) and a .csv (Gray Scale) file, respectively. You can use either or both types of files for the classification. 
 
- 
+ https://www.csmining.org/cdmc2021/index.php?id=5
 
 Citation:
 Chaalan Tarek Maldataset 2021: Maldataset as png images, June 2021
